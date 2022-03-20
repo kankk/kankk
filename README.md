@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kankk&hide=dart&layout=compact" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankk&hide=dart&layout=compact" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankk&hide=dart" width="400">
   </a>
 </p>
 
