@@ -13,6 +13,14 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   16 hrs 44 mins  ████████████▓░░░░░░░░░░░░   50.88 %
+TypeScript   5 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Vue.js       4 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Other        2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
