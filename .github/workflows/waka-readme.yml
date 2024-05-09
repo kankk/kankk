@@ -1,10 +1,9 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # runs at 8:00 AM Beijing
     - cron: "0 0 * * *"
 
 jobs:
